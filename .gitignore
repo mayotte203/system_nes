@@ -1,0 +1,9 @@
+cc65/
+system.o
+system.map.txt
+system.labels.txt
+system.nes.ram.nl
+system.nes.0.nl
+system.nes.1.nl
+system.nes.dbg
+system.nes.deb
